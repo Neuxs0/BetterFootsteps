@@ -1,6 +1,6 @@
 <h1 align="center">BetterFootsteps</h1>
 
-<p align="center">A mod to make moving on foot a little more imersive</p>
+<p align="center">A mod to make moving on foot a little more imersive.</p>
 
 ## Features
 
