@@ -1,7 +1,9 @@
 <h1 align="center">BetterFootsteps</h1>
 
 <p align="center">A mod to make moving on foot a little more imersive.</p>
-<img align="center" src="https://img.shields.io/github/downloads/Neuxs0/BetterFootsteps/total?style=for-the-badge" alt="Total Mod Downloads">
+<div align="center">
+  <img align="center" src="https://img.shields.io/github/downloads/Neuxs0/BetterFootsteps/total?style=for-the-badge" alt="Total Mod Downloads">
+</div>
 
 ## Features
 
