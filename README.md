@@ -7,7 +7,8 @@
 
 ## Features
 
--
+- Different sounds depending on surface material
+- Footstep sounds dependent on what foot is stepping and when
 
 ## Donations
 
