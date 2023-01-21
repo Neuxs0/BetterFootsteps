@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "betterfootsteps",
+  "version": "${version}",
+
+  "name": "BetterFootsteps",
+  "description": "Overhauls the footsteps",
+  "authors": [
+    "Neuxs"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/Neuxs0/BetterFootsteps"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.Neuxs.BetterFootsteps.Mod"
+    ],
+    "client": [
+      "me.Neuxs.BetterFootsteps.ModClient"
+    ]
+  },
+  "mixins": [
+    "betterfootsteps.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.19.3",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
