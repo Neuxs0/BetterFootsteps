@@ -2,7 +2,7 @@
 
 <p align="center">A mod to make moving on foot a little more imersive.</p>
 <div align="center">
-  <img align="center" src="https://img.shields.io/github/downloads/Neuxs0/BetterFootsteps/total?style=for-the-badge" alt="Total Mod Downloads">
+  <img src="https://img.shields.io/github/downloads/Neuxs0/BetterFootsteps/total?style=for-the-badge" alt="Total Mod Downloads">
 </div>
 
 ## Features
