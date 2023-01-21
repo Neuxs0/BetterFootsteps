@@ -7,9 +7,6 @@
 
 ## Features
 
-- Different sounds depending on surface material
-- Footstep sounds dependent on what foot is stepping and when
-
 ## Donations
 
 I am currently not taking donations but could possibly soon. Every donation will be amazing and you would have my thanks!<br>Most of these donations will be going towards future or current projects of mine to keep things going.
